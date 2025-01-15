@@ -1,0 +1,2 @@
+Sorted Array in Ascending Order:
+[-8, -1, 0, 21, 66]
